@@ -1,9 +1,2 @@
-# alsjdhfklashdklfjahsdflkjhasdkjl
-<<<<<<< HEAD
-#User 2 Edits
-sdljhalksjvlkzxhclkvjzhxcklvjh
-=======
-#User 1 edits
-asdjhflaksjdfhkljasdfhkjd
-
->>>>>>> 857a26b (User 1 Edits)
+#####   Original Text
+alsjdhfklashdklfjahsdflkjhasdkjl
