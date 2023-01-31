@@ -1,8 +1,0 @@
-# alsjdhfklashdklfjahsdflkjhasdkjl
-<<<<<<< HEAD
-##User 1 changes
-asdfkjlhlskdfklasdf
-=======
-#user 2 changes
-a;dkjhhklsdfgui
->>>>>>> 2ba470f (user 2 changes)
