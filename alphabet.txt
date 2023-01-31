@@ -1,8 +1,0 @@
-# alsjdhfklashdklfjahsdflkjhasdkjl
-<<<<<<< HEAD
-#User 1 changes
-kjhasdfkljhsdfh
-=======
-#user 2 changes
-jhaskljahsdlkjf
->>>>>>> 8b65ec4 (User 2 changes)
